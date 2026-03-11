@@ -1,0 +1,38 @@
+body{
+font-family:Arial;
+margin:0;
+background:#f5f7fb;
+}
+
+header{
+display:flex;
+justify-content:space-between;
+padding:20px;
+background:white;
+}
+
+nav a{
+margin:10px;
+text-decoration:none;
+color:black;
+}
+
+button{
+background:#f4b400;
+border:none;
+padding:10px 20px;
+border-radius:20px;
+}
+
+.hero{
+padding:80px;
+}
+
+.hero h1{
+font-size:48px;
+color:#1e3a8a;
+}
+
+.hero span{
+color:#16a34a;
+}
